@@ -1,0 +1,36 @@
+---
+title: "Blog"
+author: ""
+title-block-banner: false
+page-layout: full
+description-meta: "Welcome to my blog. This is where I document my academic/personal projects and such. Thanks for your time and interest!"
+
+listing:
+  - id: posts
+    contents:
+      - "applying-to-grad-school/index.qmd"
+    sort: "date desc"
+    #template: ../html/blog/listing.ejs
+    categories: true
+    
+toc-title: Year
+toc-location: right
+date-format: "MMMM D, YYYY"
+image: ""
+code-tools: false
+comments: false
+---
+
+Welcome to my blog. This is where I document my academic/personal projects and such. Thanks for your time and interest!
+
+:::{#posts}
+:::
+
+
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
