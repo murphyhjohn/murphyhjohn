@@ -1,0 +1,26 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/MJohn_photo.jpg"
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/murphyhjohn/
+    - icon: envelope
+      text: Email
+      href: "mailto:Murphy.John@uga.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+Hi, I'm Murphy!
+
+I am a first-year PhD student in Epidemiology and Biostatistics at the University of Georgia. Prior to UGA, I studied mathematics and statistics at the University of New Mexico.
+
+I created this website and blog as a place to store and share my academic materials as well as personal interests. In my free time, I enjoy yoga, running, rock climbing, and hiking. When I visit home, my hiking adventures are joined by my family's golden retriever, Frankie!
+
+![](img/logo.png){fig-align="center" width="50%"}

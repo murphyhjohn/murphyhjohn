@@ -1,10 +1,9 @@
 ---
 title: "Have Your APP and Eat It Too"
-description: "How to graduate school, from someone who has been there."
-date: 08-08-2024
+description: "How to apply to graduate school, from someone who has been there."
+date: 09-01-2024
 categories: 
-  - website
-  - academia
+  - career
 #image: thumbnail.png
 draft: false
 format:
@@ -12,6 +11,8 @@ format:
     fig-cap-location: bottom
     include-before-body: ../../html/margin_image.html
     include-after-body: ../../html/blog_footer.html
+toc: true
+self-contained: false
 editor: 
   markdown: 
     wrap: sentence
@@ -22,154 +23,327 @@ resources:
 
 # Preface
 
-So you’re applying to graduate school! This is a very exciting yet, understandably, nerve wracking time. I applied to PhD programs in Fall 2023 for a Fall 2024 start. I chose the University of Georgia’s Epidemiology and Biostatistics PhD program and am currently starting my first year.  
+So you’re applying to graduate school!
+What an exciting time!
+I applied to PhD programs in Fall 2023 for a Fall 2024 start.
+I chose the University of Georgia’s Epidemiology and Biostatistics PhD program and am currently in my first year.
 
-The purpose of this post is to document and share my experiences with deciding to pursue my PhD, actually applying, being accepted (and rejected), and choosing the best fit. I've broken this into three parts. Part 1: Getting Started gives you a place to, well, start. Part 2: The Actual Application, goes into detail the standard required materials you will need to prepare for your application. In Part 3: After You Hit Submit, I talk about my personal experience with the decision process, including acceptance and offer letters, interviews, and visit days.
+The graduate school application process, especially for PhD programs, can be stressful.
+I became passionate about sharing what I learned from my experience to help those currently going through it navigate each step more effectively.
+The purpose of this post is to document and share my experiences with choosing to pursue my PhD, actually applying, hearing back on my applications, and deciding on the best fit.
+
+I've broken this post into three parts.
+Part 1: Getting Started, gives you a place to, well, start once you've decided that you want to pursue a PhD.
+Part 2: The Actual Application, details the standard required materials you will need to prepare for your application.
+Part 3: After You Hit Submit, is about my personal experience with the decision process, including acceptance and offer letters, interviews, and visit days.
+Since I applied to PhD programs, I'll refer to those applications throughout this post.
 
 # Background
 
-I went straight from an undergraduate program to now being in a PhD program. As I was ending my junior year of undergrad (at the University of New Mexico, studying Mathematics and Statistics), the idea of pursuing a master’s program was loosely floating in my mind. That summer, I participated in a National Science Foundation (NSF) Research Experience for Undergraduates (REU) program.  It was there, where talking with professionals and reflecting on my own career interests and goals, I ultimately made the decision to apply to PhD programs.  
+I went straight from an undergraduate program to now being in a PhD program.
+As I was ending my junior year of undergrad (at the University of New Mexico, studying Mathematics and Statistics), the idea of pursuing a graduate program was floating in my mind but I really hadn't thought much about the details.
+That summer, I participated in a NSF Research Experience for Undergraduates (REU) program.
+It was there, where talking with professionals and reflecting on my own career interests and goals, I ultimately made the decision to apply to PhD programs.
 
-After deciding to apply, I had several professors/mentors whom I could confide in and I attended a few conferences that aimed to educate students about the graduate school application process (if you have a math background or are interested in a related grad program, I would recommend checking out the annual [GROW](https://www.imsi.institute/grow/) conference.  I encourage you to talk to your mentors and seek out opportunities to learn from professionals. I would like to emphasize that I am not an expert on this topic.  I am also sure that no two experiences with applying to graduate school are the same. In particular, I’ve spoken with individuals who applied to master’s programs and had very different experiences from me. That being said, I will try to be as honest as possible and I hope that hearing my perspective with the process will be helpful and make you feel more confident in your application and decisions along the way.
+After deciding to apply, I had several professors/mentors whom I could confide in.
+I also attended a few conferences that aimed to educate students about the graduate school application process (if you have a math background or are interested in a related grad program, I would recommend checking out the annual [GROW](https://www.imsi.institute/grow/) conference).
+I encourage you to talk to your mentors and seek out opportunities to learn from professionals.
+I would like to emphasize that I am not an expert on this topic.
+I am also sure that no two experiences with applying to graduate school are the same.
+That being said, I will try to be as honest as possible and I hope that hearing my perspective with the process will be helpful and make you feel more confident in your application and decisions along the way.
 
 # The Application Process
 
-## Part 1: Getting Started 
+## Part 1: Getting Started
 
 ### 1.1 Identifying Programs
 
-If you're anything like me, you are feeling confident in your decision to apply to graduate school, but you have no idea where to start.  This section gives a few suggestions on identifying programs that interest you and narrowing down it down to a solid list of schools to apply to.
+If you're anything like I was, you know that you want to apply to graduate school, but you have no idea where to start.
+This section gives a few suggestions on identifying programs that interest you and narrowing down it down to a solid list of schools.
 
-1. Talk to people!!!
+**1. Talk to people!!!**
 
-> This is probably the most important piece of advice that I can give you. Reach out your academic advisor, your faculty mentor, your internship supervisor, even a stranger whose research you found interesting. Yes seriously, reach out to strangers. Here’s why.
+This is probably the most important piece of advice that I can give you.
+Reach out your academic advisor, your faculty mentor, your internship supervisor, or even a stranger whose research you found interesting.
+Yes seriously, reach out to strangers.
+Here’s why.
 
-> > After my summer REU had concluded and I was firmly set on the idea of applying to PhD programs, I got to work looking up the best institutions, and research groups. Given my background and interests, it seemed natural to apply to statistics programs. I identified a school with a very prestigious (a word to be discussed later) stats program, a PI, and a lab group that I wanted to learn more about.  I emailed one of the students in the group expressing my interest and asked if he’d be willing to chat with me sometime. Within 5 minutes he ecstatically replied that he’d be happy to talk (sidenote: If you are nervous, like I was, about reaching out to people in academia, just know that the majority love to talk about their work and experiences. More likely than not, they will take it as a compliment that you are interested in learning from them). One of the things we talked about were my research interests.  He noticed a common theme; I was exclusively drawn to statistical applications to public health research.  He suggested that, given what I had shared with him, I also look into programs specifically for biostatistics.  At the time, I had never heard of biostatistics, much less ever thought about applying to graduate program in the field. Had I not reached out to this person and asked to have a conversation, I  likely would not be where I am today.
+After my summer REU had concluded, I got to work looking up institutions, and research groups.
+Given my background and interests, it seemed natural to apply to statistics programs.
+I identified a school with a very good stats program and a professor with a lab group that I wanted to learn more about.
+I emailed one of the students in the group expressing my interest and asked if he’d be willing to chat with me sometime.
+Within 5 minutes he ecstatically replied that he’d be happy to talk (sidenote: If you are nervous, like I was, about reaching out to people in academia, just know that the majority love to talk about their work and experiences. More likely than not, they will take it as a compliment that you are interested in learning from them).
+One of the things we talked about were my research interests.
+He noticed a common theme: I was exclusively drawn to statistics research in public health.
+He suggested that, given what I had shared with him, I also look into biostatistics programs.
+At the time, I had never heard of biostatistics, much less ever thought about applying to graduate programs in the field.
+When I started learning about the biostatistics field, it made total sense to apply to those programs.
+Had I not reached out to this person and asked to have a conversation, I likely would not be where I am today.
 
-> This may be a unique story, but what I am trying to say is that you can only benefit from talking to people who have been where you are. Your academic advisors and professors are great resources to reach out to.  In my experience, each person contributes a piece (or pieces) of advice that will ultimately help you get to where you are going. But you don't know what you don't know if you don't ask! :)
+This may be a unique story, but what I am trying to say is that you can only benefit from talking to people who have been where you are.
+Your academic advisors and professors are great resources to reach out to.
+In my experience, each person I spoke with contributed a piece (or pieces) of advice that ultimately lead me to where I am now.
+You don't know what you don't know if you don't ask!
+😊
 
-2. Find a list of institutions that have your program of interest and browse.
+**2. Find a list of institutions with your program.**
 
-> You might have a few schools in mind but there's likely a lot of places that offer your degree of interest that you may not have thought of. A comprehensive list of stats and biostats grad programs can be found [here](https://sites.google.com/view/biostats-stats-programs). I went through this list and made note of schools that sounded intriguing to me in some way. Then I did a deeper search into those schools to see if they had the other qualities that I was looking for (see below).
+You might have a few schools in mind but there's likely a lot of places that offer your degree of interest that you may not have thought of.
+A comprehensive list of stats and biostats grad programs in the U.S. can be found [here](https://sites.google.com/view/biostats-stats-programs).
+I went through this list and made note of schools that sounded intriguing to me in some way.
+Then I did a deeper search into those schools to see if they had the other qualities that I was looking for (see below).
 
-3. Make sure that there is faculty doing work you are interested in.
+**3. Make sure that there is faculty doing research you are interested in.**
 
-> If you have made the decision to pursue a PhD (a research extensive degree), you should think about a few areas of research that you might want to pursue.  I am not implying that you should have a project proposal in your back pocket by the time you apply, in fact I think it is good to be open minded, but you should have an idea of what interests you. In your search, you may also come across exciting areas of work that you hadn’t previously thought about. This being said, make sure that all of the schools you apply to have multiple faculty members (emphasis on multiple; one person may not have room in their lab, may move, etc.) that you can see yourself working with.
+If you have made the decision to pursue a PhD (a research extensive degree), you should have a few topics in mind that you might want to research.
+I'm not saying that you should have a project proposal in your back pocket by the time you apply, in fact I think it is good to be open minded, but you should have an idea of what interests you.
+In your search, you may also come across exciting areas of work that you hadn’t previously thought about.
+This being said, make sure that all of the schools you apply to have multiple faculty members (emphasis on multiple: one person may not have room in their lab, may move, etc.) that you can see yourself working with.
 
-4. Ensure that the coursework fits your goals.
+**4. Ensure that the coursework fits your goals.**
 
-> This is actually something I didn’t prioritize in my initial search for programs that I wish I did.  In the fields of statistics and biostatistics, research is typically either theoretical (coming up with new methods) or applicable (applying existing methods to a real-world issue).  I found that programs lean toward one or the other in their coursework. I am more drawn to the application realm of research. I know that I could take the more theoretical coursework (and in most programs you are required to take some amount of theoretical coursework), but it ultimately wouldn’t prepare me for my end goal as well as coursework focused on applications would.  And vice versa if I were more interested in theory.
+This is something I didn’t prioritize in my initial search for programs that I wish I did.
+You should be able to find the coursework that each program requires somewhere on their website.
+Go through it and think about if the coursework will prepare you for your end goals and be interesting to you.
+For example, I am more drawn to applied research rather than theoretical.
+I know that I could take the theory courses (and in most programs you will have to take some amount), but it ultimately wouldn’t prepare me for my end goal as well as coursework focused on applications would.
 
-5. Don't focus too much on ranking.
+**5. Don't focus too much on ranking.**
 
-> This is just my opinion. When discussing this with a professor, they shared the advice, “if you’re good, you’re good”. Your PhD experience will be what YOU make of it. It is more important to put yourself in a program where you enjoy the coursework, research opportunities, and people rather than one that is 'prestigious'.
+This is just my opinion.
+When I first started my search, I focused heavily on programs that had the best national rankings.
+I received some valuable advice that this wasn't the best course of action as it can create a sort of "tunnel-vision" in your search for programs.
+That's when I restarted my search by looking at the list of programs that I mentioned previously.
 
-6. Location is not everything, but it is important.
+When discussing the value of going to a "ranked" school, one of my professors shared the idea, “if you’re good, you’re good”.
+Your PhD experience will be what YOU make of it.
+It is more important to put yourself in a program where you enjoy the coursework, research opportunities, and people rather than one that is "prestigious".
 
-> Five years of your life is a substantial chunk of time. Think about where you want to spend it. Or at least where you DON’T want to spend it. If you hate the snow, don’t exclusively apply to schools in the northeast. If city life isn’t your cup of tea, check out schools that are in smaller college towns. For each program that you are considering, ask yourself if you will be able to live, and thrive, in that location. In order to focus on your professional life, you must put yourself in an environment where you are happy.
+**6. Location is not everything, but take it into consideration.**
 
-7. Participate in prospective student programs.  
+Five years of your life is a substantial chunk of time.
+Think about where you want to spend it.
+Or at least where you DON’T want to spend it.
+If you hate the snow, don’t exclusively apply to schools in the northeast.
+If city life isn’t your cup of tea, check out schools that are in smaller college towns.
+For each program that you are considering, ask yourself if you will be able to live, and thrive, in that location.
+Put yourself in an environment where you can be happy so that you can ultimately focus on your career.
 
-> Some departments offer a prospective student program for you to learn more about them and determine if THEY are a good fit for YOU. Two schools that I was considering offered versions of this, both included some form of correspondence with a current student in the department. One was a great experience and made me very excited to apply. The other raised a few red flags and contributed to my later decision to not apply there.
+**7. Participate in prospective student programs.**
 
-8. Reach out to professors at the schools you are considering.
+Some departments offer a prospective student program for you to learn more about them and determine if THEY are a good fit for YOU.
+Two schools that I was considering offered versions of this, both included some form of correspondence with a current student in the department.
+One was a great experience and made me very excited to apply.
+The other raised a few concerns and contributed to my later decision to not apply there.
 
-> I emailed at least one professor who I was interested in at each of the schools that I applied to. I received responses to all of the emails that I sent and arranged a meeting with most.  All of the meetings were very pleasant and made me feel confident in my decision to apply to the school. This was a great way to learn the finer details of each faculty member's lab, their work, and the student-faculty dynamics of the program.  I would recommend doing this but you’re not hurting your application if you choose not to.  
+**8. Reach out to professors whose work you are interested in.**
 
-> If you choose to, when you find a professor whose work interests you, read a few of their recent publications and write them an email explaining your interest in their work and the program. Ask if they are willing to arrange a time to meet with you to discuss further.  When a meeting is arranged, make sure that you prepare plenty of questions. But also remember that professors are just people and there is no need to be nervous or afraid of them. Just focus on having a conversation.
+I emailed at least one professor at each of the schools that I applied to.
+I received responses to all of the emails that I sent and arranged a meeting with most.
+All of the meetings were very pleasant and made me feel confident in my decision to apply to the school.
+This was a great way to learn the finer details of each faculty member's lab, their work, and the student-faculty dynamics of the program.
+I would recommend doing this but you’re not hurting your application if you choose not to.
 
-9. Don’t ignore red flags.
+If you choose to, when you find a professor whose work interests you, read a few of their recent publications and write them an email explaining your interest in their research and in the program.
+Ask if they are willing to arrange a time to meet with you to discuss further.
+When a meeting is arranged, make sure that you prepare plenty of questions.
+But also remember that professors are just people and there is no need to be nervous.
+Just focus on having a conversation with them.
 
-> This is pretty self explanatory but for example, if you are talking with faculty or current students and they raise a topic that is concerning to you, do not ignore it.  If it is bothering you, ask about it. In my opinion, a good program will be prepared to answer your questions with transparency.
+**9. Don’t overlook potential warning signs.**
 
-## 1.2 How many programs should you apply to?
+This is pretty self explanatory but for example, if you are talking with faculty or current students and they raise a topic that is concerning to you, do not ignore it.
+If it is bothering you, ask about it.
+In my opinion, a good program will be prepared to answer your questions with transparency.
 
-I applied to seven programs, all being PhD. Five were Biostatistics, one (the school that I chose) was Epidemiology & Biostatistics, and one was Statistics.  Four were top-ten programs in their respective fields.
+### 1.2 How many programs should you apply to?
 
-I talked this over with an advisor and she believed that, based on my resume, anywhere from 5-9 programs was a good number for me.  I encourage you to talk to your mentors and to be honest with yourself. If you're looking at PhD programs, consider applying to a master’s program as well, even if it's just for peace-of-mind. Also, don’t go broke applying to grad school. Application fees are expensive and at the end of the day, you’re only saying yes to one school.
+I applied to seven programs, all being PhD.
+Five were Biostatistics, one (the school that I chose) was Epidemiology & Biostatistics, and one was Statistics.
+Four were top-ten programs in their respective fields.
 
-# Part 2: The Actual Application
+I talked this over with an advisor and she believed based on my background, that anywhere from 5-9 programs was a good number for me.
+I encourage you to talk to your mentors to get an idea of how many schools you should consider applying to.
+Also, don’t go broke applying to grad school.
+Application fees are expensive and at the end of the day, you’re only saying yes to one school.
 
-The following items are standard requirements for most PhD applications: Statement of Purpose or Personal Statement, Resume/CV, Letters of Recommendation, Test Scores,and Transcript(s). Some programs require additional materials which I’ll also talk about.
+## Part 2: The Actual Application
 
-Since I applied to PhD programs, I'll mostly refer to those applications in this section. I would venture to guess that Master's program applications have similar requirements.
+The following items are standard requirements for most PhD applications: Statement of Purpose or Personal Statement, Resume/CV, Letters of Recommendation, Test Scores, and Transcript(s).
+Some programs require additional materials which I’ll also talk about.
 
-1. Statement of Purpose (SOP) or Personal Statement (PS)
+### Application Items
 
-> This was the most intimidating part of the application for me.  The prompts may vary by school, but in general, the statement of purpose is the place for you to tell the admission committee WHY you want to pursue a PhD. WHY are you a good fit for their program? Note that your SOP should NOT just be your resume in paragraph form. It is an opportunity for you to give a first-hand account of your experiences (that may or may not be on your resume). Give the admissions committee details. What are your career goals? What kind of research interests you? I briefly spoke on two topics that interested me and mentioned three professors by name at each school that I could see myself working with. How do you handle setbacks in research (or in life)? What are some examples? How has your grit and determination gotten you to where you are today? What have you learned from your past experiences?
+**1. Statement of Purpose (SOP) or Personal Statement (PS)**
 
-> If you overcame a difficult experience to get to where you are, include it. I would however encourage you to be careful with how you express this. At one of the conferences I attended, a visiting admissions committee member spoke on how they see many applications that focus too much on hardship.  She said that while they do feel for the applicants, at the end of the day, they are looking for professionals who can handle the rigorous coursework and time management of a PhD program and who have the determination necessary to succeed. If you have a story that has shaped your identity and your desire to pursue a PhD, I would say share it but keep the main point in mind.
+This was the most intimidating part of the application for me.
+The prompts may vary by school, but in general, the statement of purpose is the place for you to tell the admission committee WHY you want to pursue a PhD and WHY you are a good fit for their program.
+Note that your SOP should NOT just be your resume in paragraph form.
+Rather, it is an opportunity for you to give a first-hand account of your experiences (that may or may not be on your resume).
 
-> __Start your SOP early__.  This is a paper that is going to require a lot of time to perfect.  It is also not something that you want to be struggling to complete at the last minute. Limit your SOP to a maximum of two pages.  Also, ask your mentors (and/or family and friends) to review it. If you know someone who has served on an admissions committee, even better. Just having a fresh perspective will be helpful.
+Give the admissions committee details.
+What are your career goals?
+What kind of research interests you?
+I briefly spoke on two topics that interested me and mentioned three professors by name at each school that I could see myself working with.
+How do you handle setbacks in research (or in life)?
+What are some examples?
+How has your grit and determination gotten you to where you are today?
+What have you learned from your past experiences?
 
-2. Resume/CV
+If you overcame a difficult experience to get to where you are, include it.
+I would however encourage you to be careful with how you express this.
+At one of the conferences I attended, an admissions committee member spoke on how they see many applications that focus too much on hardship.
+She said that while they do feel for the applicants, at the end of the day, they are looking for professionals who can handle the rigorous coursework and time management of a PhD program and who have the determination necessary to succeed.
+If you have a story that has shaped your identity and your desire to pursue a PhD, I would suggest sharing it but keep the main point in mind.
 
-> Whether you choose to submit a resume or a CV will depend on your background.  Coming from undergrad, I opted to submit a one-page resume.  It included sections for my Education, Research Experience, Work Experience (only list relevant positions), Extracurriculars, Awards/Scholarships, and Skills (programming software that I had used). I had a few poster presentations and one publish-pending paper that I included in the Research Experience section. 
+**Start your SOP early**.
+This is a paper that is going to require a lot of time to perfect.
+It is also not something that you want to be struggling to complete at the last minute.
+Limit your SOP to a maximum of two pages.
+Also, ask your mentors (and/or family and friends) to review it.
+If you know someone who has served on an admissions committee, even better.
+Just having a fresh perspective will be helpful.
 
-3. Letters of Recommendation
+**2. Resume/CV**
 
-> All of the schools I applied to required three letters of recommendation. Most gave the option to submit more but I felt that I had three solid letters.I was also discouraged from submitting more than three as it could be overwhelming to an admissions committee and if one of those letters is subpar, that can hurt your application. The people who wrote my letters were my faculty advisor, my undergraduate research mentor, and my summer REU coordinator.  All of these people hold PhDs and teach at the collegiate level.  Technically, anyone can write your letters of rec, but it is encouraged that you ask professionals who received some form of higher education.
+Whether you choose to submit a resume or a CV will depend on your background.
+Coming from undergrad, I opted to submit a one-page resume.
+It included sections for my Education, Research Experience, Work Experience (only list relevant positions), Extracurriculars, Awards/Scholarships, and Skills (programming software that I had used).
+I had a few poster presentations and one publish-pending paper that I included in the Research Experience section.
 
-> Ask potential references for letters EARLY! I’m talking at least two months, but preferably three, before the application is due.  I gave each of my references a few suggestions of things that I thought they could speak on.  Whether they did, I’m not sure, but I figured if I were writing a letter, I would find that helpful.  One of my references asked me to share a document with all of the programs I was applying to for her to check off when the letter was uploaded.  I decided to send a similar document to my other references, which they really appreciated.  I included the name of the school, the type of program, how to access the application (a few of my programs used SOPHAS so I wanted to make sure they knew the difference), and the application due date.  Even if your references don’t end up using this, it’s a nice gesture and shows that you are organized.  Also note that you get notified by email when your reference submits their letter.
+**3. Letters of Recommendation**
 
-4. Test Scores
+All of the schools I applied to required three letters of recommendation.
+Most gave the option to submit more but I felt that I had three solid letters.
+The people who wrote my letters were my faculty advisor, my undergraduate research mentor, and my summer REU coordinator.
+All of these people hold PhDs and teach at the collegiate level.
+Technically, anyone can write your letters of rec, but it is encouraged that you ask professionals who have received some form of higher education.
 
-> Some schools still require submission of your GRE scores, and many programs have made this optional. Some (though not many) list it as optional but discouraged. I didn’t apply to any schools that required the GRE and thus opted not to take it. My advisor told me if there were schools that I really wanted to apply to that required it, then I should take it.  Otherwise, she didn't see see it as a necessity to my application. I absolutely agree with her advice and would give you the same Personally, I never felt that I was at a disadvantage by opting not to provide scores.
+Ask potential references for letters EARLY!
+I’m talking at least two months, but preferably three, before the application is due.
+One of my references asked me to share a live document with all of the programs I was applying to so that she could check them off as she submitted them.
+I decided to send a similar document to my other references, which they really appreciated.
+I included the name of the school, the type of program, how to access the application (a few of my programs used SOPHAS so I wanted to make sure they knew the difference), and the application due date.
+Even if your references don’t end up using this, it’s a nice gesture and shows that you are organized.
+Also note that you get notified by email when your reference submits their letter.
 
-5. Transcripts
+**4. Test Scores**
 
-> This is pretty self explanatory and most schools will just ask for your unofficial academic transcript.  However, a few schools that I applied to used the SOPHAS application portal which required all of my official college transcripts, including those from the dual-credit courses I took in high school.  These were a little bit of an inconvenience to track down, so be aware if this is the case for you. Don’t wait until the last minute to request them.
+Some schools require submission of your GRE scores, and many programs have made this optional.
+I didn’t apply to any schools that required the GRE and thus opted not to take it.
+My advisor suggested that I should only take it if there were schools I really wanted to apply to that required it.
+I would give you the same advice but would suggest talking to your academic advisor and getting their opinion.
 
-6. Additional Materials
+**5. Transcripts**
 
-> These are anything additional that is either required or optional for your application.  Even if the prompt is optional, you should prepare it just as you would if it were required.  The reason for this is self explanatory.  
+Most schools will just ask for your unofficial academic transcript.
+However, the SOPHAS application portal required all of my official college transcripts, including those from the dual-credit courses I took in high school.
+These were a little bit of an inconvenience to track down, so be aware if this is the case for you.
+Don’t wait until the last minute to request them.
 
-> I would encourage you to think about the additional materials from the perspective of the admissions committee. It is a direct reflection of the kind of program they are and the kind of applicant they are looking for. One of the schools I applied to required a Personal Statement in addition to a Statement of Purpose. The prompt was to write about my personal identity development and why it made me a good applicant for the institution.  Personally, I really liked the inclusion of this prompt because it showed me that the program wanted to know about who I am as a person, not just what I do in the academic setting. I ended up including the statement that I had prepared for this prompt in all of my applications because I felt that it was authentically me. If a program didn’t like that then to me, it meant that they wouldn’t be a good fit. I’ve included the statement [here](personal-statement.pdf).
+**6. Additional Materials**
 
-> This school also had an optional video submission. The prompt was "How would a PhD training experience at this school help you achieve your academic and professional goals?". It was different from most that this school had two additional materials.It did require extra work but I were on an admissions committee, I would definitely take notice of applicants who prepared both materials. Plus the process of recording and editing this video ended up being kinda fun!
+These are anything additional that is either required or optional for your application.
+Even if the prompt is optional, I would recommend that you prepare it.
 
-> On the other hand, another school that I was considering had a different required statement that I didn't really align with the kind of program that I was looking for. This was the same school that I referred to in no. 7 of Identifying Programs in Part 1.  Considering these two things, I decided not to apply to this school.
+I would encourage you to think about the additional materials from the perspective of the admissions committee.
+I believe that it is a direct reflection of the kind of program they are and the kind of applicant they are looking for.
+One of the schools I applied to required a Personal Statement in addition to a Statement of Purpose.
+The prompt was to write about my personal identity development and why it made me a good applicant for the institution.
+Personally, I really liked the inclusion of this prompt because it showed me that the program wanted to know about who I am as a person, not just what I do in the academic setting.
+I decided to include the statement in all of my applications because I felt that it was authentically me.
+If a program didn’t like that then to me, it meant that they wouldn’t be a good fit.
+I’ve included the statement [here](personal-statement.pdf).
 
-My last piece of advice pertaining to the actual application is to CHECK YOUR WORK!!! And then recheck. Then recheck the recheck. This mostly pertains to your SOP and any other written materials.  Look for any typos or grammatical error and take a break between checks so you have a fresh perspective. Ask other people to proofread as well. Since I named the school, program, and specific faculty members in my SOP (which I would suggest doing), it was particularly important to submit the correct document to the correct school. After you've rechecked the recheck, recheck the rechecked recheck ;).
+This same school also had an optional video submission.
+The prompt was "How would a PhD training experience at this school help you achieve your academic and professional goals?".
+It was different from most that this program had two additional materials.
+It required extra work but if I were on an admissions committee, I would definitely take notice of applicants who prepared both materials.
+Plus, the process of recording and editing the video was kinda fun!
 
-# Part 3: After You Hit Submit
+On the other hand, another school that I was considering had a different required statement that didn't really align with the kind of program that I was looking for.
+This was the same school that I referred to in Part 1.
+Considering those two things, I decided not to apply to this school.
 
-After you submit your applications, you’re in for a little bit of waiting  All of my apps were submitted by the end of November (due dates varied slightly so be well aware of them), and it was early January when I started hearing back. I had a different experience with each school and I’d be willing to bet that you will too. I’ll highlight a few unique ones and share some advice that I wish I had known while going through it.
+### Check Your Work
 
-> You may receive one letter containing both your acceptance and your offer (RA/TA Assistantship or other financial information).  You may also receive them at separate times.  Regardless, your offer should be extremely transparent. If it is not, be (politely) assertive and ask. You should be given a clear and direct answer. Full funding is standard from what I know about PhD programs but you cannot assume that you'll have funding until you it is in writing. It is my personal opinion that a school should only accept the amount of applicants that they can fully fund. One of the programs that I was accepted to said that they make offers to incoming PhD students AFTER they commit to the school. I was not comfortable accepting an offer like this.
+My last piece of advice pertaining to the actual application is to CHECK YOUR WORK!!!
+And recheck.
+Then recheck the recheck.
+This mostly pertains to your SOP and any other written materials.
+Look for any typos or grammatical errors and take a break between checks so you have a fresh perspective.
+Ask other people to proofread as well.
+Since I personalized my SOP and PS with the school, program, and specific faculty members (which I would suggest doing), it was particularly important to submit the correct document to the correct school.
+After you've rechecked the recheck, recheck the rechecked recheck😊.
 
-> I had two interviews.  One didn’t label itself as an “interview” and was moreso a time to chat with a professor. The other was a more formal discussion with two faculty members. Both of these meetings were really great experiences and felt more like conversations than interviews. A few questions that I can recall being asked are “Why do you want to pursue a PhD?”, “How do you stay organized and manage your time?”, and “What coding languages and statistical methods are you familiar with?”.  Definitely prepare answers to these questions and others than you find on the internet.  You’ll also want to prepare a few questions to ask about the program at the end.
+## Part 3: After You Hit Submit
 
-> The program should not be putting any pressure on you to make a decision.  One of my acceptances required a decision by March 15 or else my financial offer would be forfeited. National Decision Day is April 15 and is standard across all institutions.  I was not comfortable with the fact that the program was putting pressure on its applicants like this is.
+All of my apps were submitted by the end of November (due dates varied slightly so be well aware of yours) and it was early January when I started hearing back.
+I had a different experience with each school and I’d be willing to bet that you will too.
+I’ll highlight a few unique ones and share some advice that I wish I had known while going through it.
 
-> When a program takes a very personal approach to their acceptance process, this speaks volumes. In my opinion, it shows that the school sees you as an individual and believes in your ability.
+### My Experiances
+
+-   You may receive one letter containing both your acceptance and your offer (Research/Teaching Assistantship or other financial information).
+    You may also receive them at separate times.
+    Regardless, **your offer should be extremely transparent**.
+    If it is not, be (politely) assertive and ask.
+    You should be given a clear and direct answer.
+    Full funding is standard from what I know about PhD programs but you cannot assume that you'll have funding until you receive an offer in writing.
+    One of the programs that I was accepted to said that they make offers to incoming students AFTER they commit to the school.
+    They were very vague when I asked more.
+    I personally was not comfortable accepting an offer like this.
+
+-   Some schools interview and some don't.
+    I had two interviews.
+    One didn’t label itself as an “interview” and was moreso a time to chat with a professor.
+    The other was a more formal discussion with two faculty members.
+    Both of these meetings were really great experiences and felt more like conversations than interviews.
+    A few questions that I can recall being asked are “Why do you want to pursue a PhD?”, “How do you stay organized and manage your time?”, and “What coding languages and statistical methods are you familiar with?”.
+    Definitely prepare answers to these questions and any others that you can think of.
+    You’ll also want to prepare a few questions to ask your interviewer at the end.
+
+-   **The program should not be putting any pressure on you to make a decision.** One of my acceptances required a decision by March 15th or else my financial offer would not be guaranteed.
+    National Decision Day is April 15th and is widely accepted by all institutions.
+    Personally, I was not comfortable with this approach.
+
+-   When a program takes a very personal approach to their acceptance process, this speaks volumes.
+    Some examples that come to mind were being contacted directly by a professor, receiving personal emails regarding visit day logistics, and having the opportunity to talk one-on-one with students, faculty, and staff during a few of my visit days. In my opinion, this approach shows that the school sees you as an individual, believes in your ability, and genuinely wants YOU to join their program.
 
 ### Visit Days
 
-Attend all of your visit days if you can. They are an opportunity to see the dynamics of the program that you can’t from just viewing their website. These really differentiated the programs that I had been accepted to. There should be minimal responsibility on you. Hotels and flights should be arranged for you or at least recommended, transportation to/from the airport should be organized, meals should be provided, and the schedule for the day should be clearly laid out. If you are responsible for booking your travel and hotel, the program should give you a stipend that covers both. As one of my programs said, this is not an opportunity for them to interview you, but for YOU to interview THEM.
+Attend all of your visit days if you can.
+They are an opportunity to see the dynamics of the program that you can’t from just viewing their website.
+These really differentiated the programs that I had been accepted to.
+There should be minimal responsibility on you.
+Hotels and flights should be arranged for you or at least recommended, transportation to/from the airport should be organized, meals should be provided, and the schedule for the day should be clearly laid out.
+If you are responsible for booking your travel and hotel, the program should give you a stipend that covers both.
+As one of my programs said, this is not an opportunity for them to interview you, but for YOU to interview THEM.
 
 ### Rejection
 
-The chances of you getting accepted to every single PhD program that you apply to are slim to none, regardless of your qualifications.  There are many reasons for not being admitted.  Oftentimes there are simply too many qualified applications and not enough funding. I also that that each institution and department has a different vibe and different qualities that they look for in their applicants. The admissions committee who is reviewing your application likely has a pretty good gauge for whether or not you would fit into their professional dynamic.  My advice is NOT to curate your application to the institution's liking. Rather, be yourself. I know it sounds cheesy but seriously.  In some cases, and in what I firmly believe to be my case, rejection is a good thing.  At the end of the day, you will not thrive in an environment that does not reflect your own individual values.  Keep this in mind when you are preparing your application and when you start receiving responses from programs.
+The chances of you getting accepted to every PhD program that you apply to are slim to none, regardless of your qualifications.
+There are many reasons for not being admitted.
+Oftentimes there are simply too many qualified applications and not enough funding.
+Yes, it stings, but try to look at rejection in a more positive way.
+It means that the program wouldn't have been a good fit for you anyways.
+Keep this in mind when you start receiving responses.
 
-### Preparing for PhD Coursework
+# Last thoughts and preparing for your PhD
 
-Once you have your plans finalized and the know when/where/how details of your program and moving, I'd recommend that you start reading up on some refresher material.  This summer, I read an epidemiology textbook and some related papers as my background (math/stats) lacks some of those concepts that I'll need. My research group recommended Martin Schwartz's ["The importance of stupidity in scientific research"](importance-of-stupidity.pdf), a quick read but a very insightful one.
+Once you have your plans finalized and the know what/when/where details of your program and moving to your new home, I'd recommend that you start reading up on some refresher material.
+This summer, I read an epidemiology textbook and some related papers as my background (math/stats) lacked some of those concepts that I needed.
+My research group also recommended Martin Schwartz's "[The importance of stupidity in scientific research](https://doi.org/10.1242/jcs.033340)".
+It's a quick read and a very insightful one for early researchers (like you and me!).
+Print it out and hang it somewhere where you can see it to remind yourself after a long day that it is okay and quite natural to sometimes feel, well, stupid.
 
-I also moved and got settled into my office a few weeks before classes started.  Turns out, there is a bunch of software that I needed to figure out how to use and I'm glad that I did it early.
+I moved and got settled into my office a few weeks before classes started.
+Turns out, there was a bunch of software that my research group uses that I needed to install and figure out how to use.
+I'm glad that I did it early.
 
-Thanks for taking the time to read this post.  If you have any questions, clarifications, or comments of any kind, please feel free to reach out!
+Thank you for taking the time to read this post.
+I wish you all the best with your grad school applications!
 
-All the best,
+If you have any questions, clarifications, or comments, please feel free to reach out!
 
 Murphy
-
-
-:::
-
-
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
-```

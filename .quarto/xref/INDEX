@@ -13,5 +13,26 @@
   },
   "projects/index.qmd": {
     "index.html": "ba3e4a6f"
+  },
+  "blog/nm-lakes-falls/index.qmd": {
+    "index.html": "65a294f4"
+  },
+  "cv/index.qmd": {
+    "index.html": "cbadc7f6"
+  },
+  "cv/cv-index.qmd": {
+    "cv-index.html": "8ec071b7"
+  },
+  "blog/applying-to-grad-school/applying-to-grad-school-index.qmd": {
+    "applying-to-grad-school-index.html": "7070c217"
+  },
+  "blog/blog-index.qmd": {
+    "blog-index.html": "7e1a74aa"
+  },
+  "blog/nm-lakes-falls/nm-lakes-falls-index.qmd": {
+    "nm-lakes-falls-index.html": "280413d2"
+  },
+  "404.qmd": {
+    "404.html": "531e0668"
   }
 }
